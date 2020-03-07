@@ -1,4 +1,5 @@
-/[Ll]ibrary/
+/[Ll]ibrary/**
+!/[Ll]ibrary/LastSceneManagerSetup.txt
 /[Tt]emp/
 /[Bb]in/
 /[Ll]ogs/
