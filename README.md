@@ -1,4 +1,4 @@
-# Control a ball remotely with the Arduino
+# Control-a-ball remotely with the Arduino
 
 Control a Unity3D game with a custom remote (bluetooth) controller.
 
